@@ -1,7 +1,5 @@
 # jsPDFLightning
 
-# d3lightning
-
 This component allow you to create a "PDF" fron Lightning JS.
 
 jsPDF library download a PDF from JS (https://parall.ax/products/jspdf)
